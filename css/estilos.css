@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://wallpaperplay.com/walls/full/1/a/b/37693.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    hieght: 100vh;
+  }
+  
+  .menu{
+    background-color: white;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a{
+    text-decoration: none;
+    color: teal;
+  }
+  
+  a:hover{
+   color: MediumTurquoise;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
